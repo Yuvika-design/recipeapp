@@ -1,0 +1,1 @@
+It is a recipe recommending application which will help the user make edible food out of the ingredients he or she has in the current situation. You need to specify the ingedients that you have and the system will recommend you certain food items that can be made using those products .
